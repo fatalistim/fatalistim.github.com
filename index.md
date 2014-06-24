@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 尘世客
-tagline: Supporting tagline
 ---
 尘世客博客。
 
